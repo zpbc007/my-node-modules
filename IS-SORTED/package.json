@@ -1,0 +1,20 @@
+{
+  "name": "is-sorted",
+  "version": "1.0.0",
+  "description": "判断数组是否有序",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "ava": {
+    "match": [
+      "*test"
+    ],
+    "verbose": true
+  },
+  "author": "zhaopeng",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
